@@ -950,5 +950,5 @@ vendor/lib/libqsap_sdk.so
 # Xiaomi MAC
 vendor/bin/nv_mac
 
-# Power-off charging daemon
-bin/charger:bin/charger
+# Power-off charging daemon - from qssi-user-11-RKQ1.200710.002-V12.1.2.0.RJACNXM-release-keys
+bin/charger:bin/charger|4b600706d503dce9cf3b41b81f9c9a618a458221
